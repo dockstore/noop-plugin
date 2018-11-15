@@ -1,0 +1,2 @@
+# noop-plugin
+For testing
