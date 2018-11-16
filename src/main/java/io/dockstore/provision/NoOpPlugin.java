@@ -58,7 +58,7 @@ public class NoOpPlugin extends Plugin {
         }
 
         public Set<String> schemesHandled() {
-            return new HashSet<>(Lists.newArrayList("s3"));
+            return new HashSet<>(Lists.newArrayList("noop"));
         }
 
         public boolean downloadFrom(String sourcePath, Path destination) {
