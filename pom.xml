@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.dockstore</groupId>
-    <artifactId>noop-plugin</artifactId>
+    <artifactId>dockstore-file-noop-plugin</artifactId>
     <packaging>jar</packaging>
-    <name>noop-plugin</name>
+    <name>dockstore-file-noop-plugin</name>
     <version>0.0.2-SNAPSHOT</version>
 
     <properties>
