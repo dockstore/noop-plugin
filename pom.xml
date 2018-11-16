@@ -6,7 +6,7 @@
     <artifactId>dockstore-file-noop-plugin</artifactId>
     <packaging>jar</packaging>
     <name>dockstore-file-noop-plugin</name>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
 
     <properties>
         <plugin.id>${project.artifactId}</plugin.id>
